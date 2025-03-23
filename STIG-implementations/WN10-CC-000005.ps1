@@ -22,8 +22,6 @@
     PS C:\> .\WN10-CC-000005.ps1 
 #>
 
-# Description: Disable camera access from the lock screen
-
 # Define registry path and value
 $regPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Personalization"
 $regName = "NoLockScreenCamera"

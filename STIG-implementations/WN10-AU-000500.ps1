@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script disables camera access from the logon screen.
+    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
 .NOTES
     Author          : Fred Lefebvre
     LinkedIn        : linkedin.com/in/FredLC/
@@ -10,7 +10,7 @@
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN10-CC-000005
+    STIG-ID         : WN10-AU-000500
 
 .TESTED ON
     Date(s) Tested  : 
