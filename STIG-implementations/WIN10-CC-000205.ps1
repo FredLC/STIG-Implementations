@@ -22,9 +22,6 @@
     PS C:\> .\WN10-CC-000205.ps1 
 #>
 
-# Description: Disable camera access from the lock screen
-
-
 # Define Registry Path
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\DataCollection"
 
