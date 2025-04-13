@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script disables slide shows on the lock screen.
+    This PowerShell script prevents Web publishing and online ordering wizards from downloading a list of providers.
 .NOTES
     Author          : Fred Lefebvre
     LinkedIn        : linkedin.com/in/FredLC/
